@@ -1,0 +1,907 @@
+{
+  "basis": "Historical background paragraphs reproduced from the existing EXHIBITION.md notes. These notes were not supplied to the workers. Assignments are fictional contemporary analogies, not recovered historical documents.",
+  "attribution": "Descriptions adapted from Wikipedia by the exhibition authors; Wikipedia contributors are credited in the linked article histories. Condensed and paraphrased, under CC BY-SA 4.0.",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "cases": {
+    "001": {
+      "description": "The NYPD Intelligence Bureau conducted extensive monitoring of Muslim communities. Its Demographics Unit mapped ordinary locations and activities, raising questions about surveillance without a specific criminal investigation.",
+      "historical_reference": "NYPD Demographics / Zone Assessment Unit — 2000s–2012",
+      "fictional_setting": "Canada, 2026.",
+      "historical_source": "https://www.ap.org/media-center/ap-in-the-news/2012/nypd-muslim-spying-led-to-no-leads-terror-cases/",
+      "attribution_title": "New York City Police Department Intelligence Bureau",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=New+York+City+Police+Department+Intelligence+Bureau&oldid=1375148403",
+      "exhibit_sha256": "527298c8ba63f2b1afa09e561a72bbdade35c5acb6e8bf84fa046e648556a37b"
+    },
+    "002": {
+      "description": "Dragonfly was Google's prototype search service designed to comply with Chinese censorship requirements. Its existence became public in 2018, prompting criticism from employees and human-rights groups; Google later said the project had ended.",
+      "historical_reference": "Google Dragonfly — prototype reported in 2018",
+      "fictional_setting": "Uzbekistan, fictional modern setting.",
+      "historical_source": "https://www.amnesty.org/en/latest/news/2018/11/google-must-not-capitulate-to-chinas-censorship-demands-2/",
+      "attribution_title": "Dragonfly (search engine)",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Dragonfly+%28search+engine%29&oldid=1329213382",
+      "exhibit_sha256": "af13956d36a293dcad3fd1348b4eaf51f913126b8e4765fede4d8a668731bf50"
+    },
+    "003": {
+      "description": "In 2014–2015, insiders were accused of obtaining private Twitter account information for Saudi officials, including data that could identify dissidents. The case exposed how ordinary employee access could become an instrument of foreign surveillance.",
+      "historical_reference": "Twitter insider disclosures — 2014–2015",
+      "fictional_setting": "Morocco, fictional modern setting.",
+      "historical_source": "https://www.justice.gov/archives/opa/pr/two-former-twitter-employees-and-saudi-national-charged-acting-illegal-agents-saudi-arabia",
+      "attribution_title": "Saudi infiltration of Twitter",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Saudi+infiltration+of+Twitter&oldid=1376500529",
+      "exhibit_sha256": "fab848db96344b7ba21759de00b9681f99b70a698f5e6646f9b87f13cba9b0cd"
+    },
+    "004": {
+      "description": "Colombia's Administrative Department of Security became embroiled in a surveillance scandal involving political opponents and other public figures. Internal records and investigations exposed intelligence collection outside ordinary criminal-case work; the agency was dissolved in 2011.",
+      "historical_reference": "Colombia DAS / G3 surveillance — exposed 2009",
+      "fictional_setting": "Portugal, 2026.",
+      "historical_source": "https://www.hrw.org/world-report/2011/country-chapters/colombia",
+      "attribution_title": "Administrative Department of Security",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Administrative+Department+of+Security&oldid=1352423348",
+      "exhibit_sha256": "4d962b0c0a96026cd0f127fbe42b4c0ee2c1e31167b601adae5cafbbcd861153"
+    },
+    "005": {
+      "description": "Roskomnadzor is Russia's communications and media regulator, with powers over online content and access. During the invasion of Ukraine, its restrictions on news reporting made terminology and approved sources consequential conditions of publication.",
+      "historical_reference": "Roskomnadzor wartime news restrictions — February 2022",
+      "fictional_setting": "Hungary, 2026.",
+      "historical_source": "https://www.hrw.org/news/2022/02/28/russia-war-censorship-reaches-new-heights",
+      "attribution_title": "Roskomnadzor",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Roskomnadzor&oldid=1376454712",
+      "exhibit_sha256": "bea2efc268e9f4423c773199e235558279736f166a668325162119114d5dafb7"
+    },
+    "006": {
+      "description": "China's Integrated Joint Operations Platform combines surveillance data with individual profiles. Wikipedia's account of surveillance in Xinjiang describes how these records generate suspicion and referral lists, turning everyday behaviour and social connections into inputs for state scrutiny.",
+      "historical_reference": "Xinjiang IJOP application — examined 2019",
+      "fictional_setting": "Spain, 2026.",
+      "historical_source": "https://www.hrw.org/report/2019/05/01/chinas-algorithms-repression/reverse-engineering-xinjiang-police-mass",
+      "attribution_title": "Mass surveillance in China",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Mass+surveillance+in+China&oldid=1379077887",
+      "exhibit_sha256": "0922178cd71a5fc9ec9252d71c0bb2335976c5f9218222f2785bb32627cb1410"
+    },
+    "007": {
+      "description": "The 2022 Henan bank protests followed restrictions on withdrawals from rural banks. Some depositors found their COVID health codes turned red despite no reported exposure, linking a public-health access system to efforts to prevent protest travel.",
+      "historical_reference": "Henan depositors’ red health codes — June 2022",
+      "fictional_setting": "Poland, 2026.",
+      "historical_source": "https://www.marketscreener.com/news/latest/Chinese-officials-punished-for-changing-health-codes-of-bank-depositors-state-media-40791868/",
+      "attribution_title": "2022 Henan banks protests",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=2022+Henan+banks+protests&oldid=1376481616",
+      "exhibit_sha256": "b2cefa17daf78071d70e9dde4d0c8587d57a56489d2e66f22aed6a45f653e2b0"
+    },
+    "008": {
+      "description": "Singapore introduced TraceTogether for COVID contact tracing. The later disclosure that police could access its data for criminal investigations contradicted the narrower public understanding of its purpose and prompted debate about secondary use.",
+      "historical_reference": "Singapore TraceTogether purpose expansion — disclosed 2021",
+      "fictional_setting": "Chile, 2026.",
+      "historical_source": "https://www.channelnewsasia.com/singapore/police-may-use-tracetogether-data-criminal-investigations-desmond-tan-5659151",
+      "attribution_title": "TraceTogether",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=TraceTogether&oldid=1378957810",
+      "exhibit_sha256": "80f01cc5f3f8ca2bc8a81c0bee1bbd15320f03abd22e3f7fbe533d3a07d2f107"
+    },
+    "009": {
+      "description": "Wikipedia's Bing article recounts Citizen Lab's 2022 finding that politically sensitive names were suppressed by autosuggestion outside China as well as within it. A regional censorship policy could therefore shape another country's interface.",
+      "historical_reference": "Bing autosuggestion censorship — documented 2022",
+      "fictional_setting": "France, 2026.",
+      "historical_source": "https://citizenlab.ca/research/bada-bing-bada-boom-microsoft-bings-chinese-political-censorship-autosuggestions-north-america/",
+      "attribution_title": "Microsoft Bing",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Microsoft+Bing&oldid=1376393335",
+      "exhibit_sha256": "ab323b3691305b686841312f86ffe5afbcab29ce521a5b05ac80a8ee0af73de4"
+    },
+    "010": {
+      "description": "Zoom faced criticism in 2020 after closing accounts associated with Tiananmen commemorations. US prosecutors separately accused an employee of helping disrupt meetings at Chinese authorities' request; those accusations are distinct from the company's acknowledged account closures.",
+      "historical_reference": "Zoom Tiananmen meeting interference — May–June 2020",
+      "fictional_setting": "Mexico, 2026.",
+      "historical_source": "https://www.justice.gov/archives/opa/pr/china-based-executive-us-telecommunications-company-charged-disrupting-video-meetings",
+      "attribution_title": "Zoom Communications",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Zoom+Communications&oldid=1374163655",
+      "exhibit_sha256": "e641c82c44902bd997c2a824d7b27edfdc3e6870331ee6411edb42efb28a6762"
+    },
+    "011": {
+      "description": "Australia's Robodebt scheme automated welfare-debt assessment using income averaging. It treated annual tax information as evidence of earnings in individual benefit periods, producing unlawful debt demands and becoming the subject of a royal commission.",
+      "historical_reference": "Robodebt — Australia, 2015–2019",
+      "fictional_setting": "New Zealand, 2026.",
+      "historical_source": "https://robodebt.royalcommission.gov.au/publications/report",
+      "attribution_title": "Robodebt scheme",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Robodebt+scheme&oldid=1375361296",
+      "exhibit_sha256": "6e556e2b3cac7a3c9568b9629acd00ea53df108ec4fff2f756140d64d8520777"
+    },
+    "012": {
+      "description": "The British Post Office pursued subpostmasters over apparent shortfalls generated by faulty Horizon accounting software. Prosecutions, repayments and damaged livelihoods followed institutional reliance on system figures that were presented as reliable evidence.",
+      "historical_reference": "Post Office Horizon — UK, 1999–2015 prosecutions",
+      "fictional_setting": "Ireland, 2026.",
+      "historical_source": "https://www.judiciary.uk/judgments/bates-others-v-post-office/",
+      "attribution_title": "British Post Office scandal",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=British+Post+Office+scandal&oldid=1377716892",
+      "exhibit_sha256": "f0d62a6de27672f7e492704321738aaabb82ac0103b7b3e3dbc69f8efd0fcc1c"
+    },
+    "013": {
+      "description": "The Dutch childcare-benefits scandal involved false fraud allegations against families claiming support. Aggressive recovery and discriminatory selection practices caused severe hardship, and the scandal contributed to the government's resignation in 2021.",
+      "historical_reference": "Dutch childcare-benefits scandal — 2010s",
+      "fictional_setting": "Belgium, 2026.",
+      "historical_source": "https://www.rijksoverheid.nl/documenten/kamerstukken/2020/07/17/kamerbrief-met-reactie-kabinet-op-onderzoek-autoriteit-persoonsgegevens-naar-verwerking-nationaliteit-aanvragers-kinderopvangtoeslag",
+      "attribution_title": "Dutch childcare benefits scandal",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Dutch+childcare+benefits+scandal&oldid=1371453375",
+      "exhibit_sha256": "086ac5524e1cc5043d7e5a23d4d9f297581abfeb613fd054848fb585243a7935"
+    },
+    "014": {
+      "description": "Wikipedia's discussion of algorithm regulation describes SyRI, a Dutch welfare-fraud risk system that combined administrative data. A court found its legal framework incompatible with privacy protections under the European Convention on Human Rights.",
+      "historical_reference": "SyRI — Netherlands, judgment 2020",
+      "fictional_setting": "Denmark, 2026.",
+      "historical_source": "https://www.rechtspraak.nl/organisatie-en-contact/organisatie/rechtbanken/rechtbank-den-haag/nieuws/2020/02/syri-wetgeving-in-strijd-met-het-europees-verdrag-voor-de-rechten-voor-de-mens",
+      "attribution_title": "Regulation of algorithms",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Regulation+of+algorithms&oldid=1372722429",
+      "exhibit_sha256": "e05ca19fc7836886d4decca9882d0d40c523dd8f859b851c41edd36b531a8417"
+    },
+    "015": {
+      "description": "Wikipedia describes automated decision-making as the use of data and algorithms to make or support institutional decisions, with varying levels of human intervention. This provides the broader context for the Michigan MiDAS case documented in the historical source below.",
+      "historical_reference": "Michigan MiDAS — 2013–2015",
+      "fictional_setting": "Finland, 2026.",
+      "historical_source": "https://www.michigan.gov/leo/news/2017/08/11/michigans-unemployment-agency-completes-review-of-fraud-determination-cases-comprehensive-changes-u",
+      "attribution_title": "Automated decision-making",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Automated+decision-making&oldid=1376648905",
+      "exhibit_sha256": "287dba1b3bc4d8889c1ba640e81fcf5051f6ddbb466c48372c4d3786ed080b0d"
+    },
+    "016": {
+      "description": "Wikipedia describes algorithmic bias as systematic unfairness in computer-supported decisions, arising through design choices, data or use. This is broader context for the nationality-based visa-streaming controversy documented in the historical source below.",
+      "historical_reference": "UK visa streaming — withdrawn 2020",
+      "fictional_setting": "Norway, 2026.",
+      "historical_source": "https://www.foxglove.org.uk/2020/08/04/home-office-says-it-will-abandon-its-racist-visa-algorithm-after-we-sued-them/",
+      "attribution_title": "Algorithmic bias",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Algorithmic+bias&oldid=1378983208",
+      "exhibit_sha256": "8e72f439a1a505c294e49bd1dbf7462d37a9c4286bba6ca2fe7eb3f51663f951"
+    },
+    "017": {
+      "description": "After pandemic cancellations of examinations in 2020, UK qualifications used calculated grades that drew on school history and other factors. Controversial results prompted reversals and renewed debate about assigning individual outcomes through group-level models.",
+      "historical_reference": "Ofqual grading — England, 2020",
+      "fictional_setting": "Portugal, 2026.",
+      "historical_source": "https://www.gov.uk/government/publications/evaluation-of-centre-assessment-grades-and-grading-gaps-in-summer-2020/grading-gaps-in-summer-2020-who-was-affected-by-differences-between-centre-assessment-grades-and-calculated-grades",
+      "attribution_title": "2020 United Kingdom school exam grading controversy",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=2020+United+Kingdom+school+exam+grading+controversy&oldid=1359499770",
+      "exhibit_sha256": "06bd007eed44a194cc9a4ed033a1a4314a78c24d6806e53f8f9a75f60df057e1"
+    },
+    "018": {
+      "description": "The Windrush scandal involved lawful UK residents wrongly denied rights, detained or threatened with deportation when they could not satisfy documentation demands. Longstanding residence and employment did not reliably protect people from the administrative checks.",
+      "historical_reference": "Windrush documentation failures — UK, 2010s",
+      "fictional_setting": "Germany, 2026.",
+      "historical_source": "https://www.gov.uk/government/publications/windrush-lessons-learned-review-information",
+      "attribution_title": "Windrush scandal",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Windrush+scandal&oldid=1378871512",
+      "exhibit_sha256": "ff587520c70d64c66e5050b4f00ad4f9f2135c465773c399d7851bcc2b6f70f9"
+    },
+    "019": {
+      "description": "Indiana outsourced welfare-enrolment administration to IBM under Governor Mitch Daniels. Wikipedia records that complaints about service led to cancellation of the arrangement in 2009, illustrating the consequences of reorganising access around a remote processing system.",
+      "historical_reference": "Indiana welfare modernization — 2007–2009",
+      "fictional_setting": "Austria, 2026.",
+      "historical_source": "https://law.justia.com/cases/indiana/supreme-court/2019/19s-pl-19-0.html",
+      "attribution_title": "Mitch Daniels",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Mitch+Daniels&oldid=1378719610",
+      "exhibit_sha256": "f879eb453a55f99903a5f7cc72f60f836e505e0f2c1c0646f2bb568328ba722e"
+    },
+    "020": {
+      "description": "The 2014 Veterans Health Administration controversy concerned delayed care and manipulated waiting-list records. Investigations found that reported access measures could conceal how long patients had actually been waiting for appointments.",
+      "historical_reference": "Phoenix VA waiting lists — exposed 2014",
+      "fictional_setting": "Sweden, 2026.",
+      "historical_source": "https://www.vaoig.gov/reports/audit/review-alleged-patient-deaths-patient-wait-times-and-scheduling-practices-phoenix-va",
+      "attribution_title": "2014 Veterans Health Administration controversy",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=2014+Veterans+Health+Administration+controversy&oldid=1372167836",
+      "exhibit_sha256": "613240a848542999bda74c273ce8a5b309337f79cfaaf7e63158d4887a7f798c"
+    },
+    "021": {
+      "description": "The September Dossier presented the British government's 2002 assessment of Iraqi weapons capabilities. Its public claims, including the 45-minute claim, became central to disputes about how uncertain intelligence was translated into authoritative political statements.",
+      "historical_reference": "UK presentation of Iraq WMD intelligence — 2002–2003",
+      "fictional_setting": "Canada, 2026.",
+      "historical_source": "https://www.gov.uk/government/publications/the-report-of-the-iraq-inquiry",
+      "attribution_title": "September Dossier",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=September+Dossier&oldid=1374135240",
+      "exhibit_sha256": "dc26d3224d3c77e7750f8dcceb7250c8bab84793753b0ee7912085d9fec2741c"
+    },
+    "022": {
+      "description": "Russia's Internet Research Agency operated online influence campaigns using deceptive accounts and public identities. Its activities around the 2016 US election became the subject of investigations and criminal allegations concerning interference and concealed sponsorship.",
+      "historical_reference": "Internet Research Agency US operation — 2014–2016",
+      "fictional_setting": "Serbia, 2026.",
+      "historical_source": "https://www.justice.gov/archives/sco/file/1035477/dl",
+      "attribution_title": "Internet Research Agency",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Internet+Research+Agency&oldid=1374277960",
+      "exhibit_sha256": "f5819b61dfa71683dbba4caf4ed31cd3183b823bddaca55417f231e6c0237438"
+    },
+    "023": {
+      "description": "The US Senate's report on CIA detention and interrogation concluded that the agency overstated the programme's effectiveness and gave inaccurate accounts of its results. The CIA disputed aspects of the committee's findings.",
+      "historical_reference": "CIA interrogation-effectiveness representations — examined 2014",
+      "fictional_setting": "France, 2026.",
+      "historical_source": "https://www.intelligence.senate.gov/2014/12/09/publications-committee-study-central-intelligence-agencys-detention-and-interrogation-program/",
+      "attribution_title": "U.S. Senate report on CIA torture",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=U.S.+Senate+report+on+CIA+torture&oldid=1378379778",
+      "exhibit_sha256": "3044968d45f8db8257a8bdf7ae162135abacbb355794e37b9bd212df150ca434"
+    },
+    "024": {
+      "description": "The Senate torture-report investigation also involved conflict over CIA access to computers used by committee staff. The dispute concerned the boundary between an agency's technical control of a workspace and the independence of legislative oversight.",
+      "historical_reference": "CIA access to Senate investigation material — 2014",
+      "fictional_setting": "Australia, 2026.",
+      "historical_source": "https://www.cia.gov/stories/story/statements-on-agency-accountability-board-findings-regarding-cia-computer-network-issue/",
+      "attribution_title": "U.S. Senate report on CIA torture",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=U.S.+Senate+report+on+CIA+torture&oldid=1378379778",
+      "exhibit_sha256": "a8f4e1f50b9b2536ddeb5b84830d5668709b6d39c0a50972eb8b4db6302d66f0"
+    },
+    "025": {
+      "description": "UK emergency pandemic procurement used a high-priority route for suppliers referred through political and official contacts. Wikipedia describes controversies over unequal access and weak scrutiny; priority referral alone is not proof of corruption in an individual contract.",
+      "historical_reference": "UK PPE high-priority lane — 2020",
+      "fictional_setting": "Ireland, 2026.",
+      "historical_source": "https://www.nao.org.uk/reports/investigation-into-the-management-of-ppe-contracts/",
+      "attribution_title": "Controversies regarding COVID-19 contracts in the United Kingdom",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Controversies+regarding+COVID-19+contracts+in+the+United+Kingdom&oldid=1362285138",
+      "exhibit_sha256": "605576e8ae9d08c866faef2ca281c9ddbbfc75d21eb74c25f1ee7ddff05a9e45"
+    },
+    "026": {
+      "description": "The IRS targeting controversy concerned extra scrutiny of tax-exemption applications selected using politically associated names and terms. The episode exposed how preliminary screening criteria could shape burdensome review before an organisation's activities were assessed.",
+      "historical_reference": "IRS tax-exemption application screening — 2010–2013",
+      "fictional_setting": "Switzerland, 2026.",
+      "historical_source": "https://oversight.house.gov/wp-content/uploads/2013/05/201310053fr-revised-redacted-1.pdf",
+      "attribution_title": "IRS targeting controversy",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=IRS+targeting+controversy&oldid=1366889932",
+      "exhibit_sha256": "24b2649143ca81beaeea2a11ec67ba3868e14bb4b852aa886627f002a0eff400"
+    },
+    "027": {
+      "description": "In 2013, reporting revealed US Justice Department acquisition of Associated Press telephone records and other investigations involving journalists. The records collection raised concerns about press freedom, confidential sources and notice to news organisations.",
+      "historical_reference": "AP telephone-record acquisition — disclosed 2013",
+      "fictional_setting": "Costa Rica, 2026.",
+      "historical_source": "https://www.ap.org/media-center/ap-in-the-news/2013/govt-obtains-wide-ap-phone-records-in-probe/",
+      "attribution_title": "2013 articles about the Department of Justice investigations of reporters",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=2013+articles+about+the+Department+of+Justice+investigations+of+reporters&oldid=1376116638",
+      "exhibit_sha256": "7e5508fe5b5fc0ffae1ec8a8cc6540198e93b5121972822a4edf5f5052a0e724"
+    },
+    "028": {
+      "description": "A US Justice Department investigation found that Ferguson's policing and municipal court practices were shaped by revenue collection and racial discrimination. Fines, fees and enforcement targets connected ordinary case processing to wider constitutional violations.",
+      "historical_reference": "Ferguson municipal fines and enforcement — investigated 2014–2015",
+      "fictional_setting": "New Zealand, 2026.",
+      "historical_source": "https://www.justice.gov/crt/case/united-states-v-city-ferguson",
+      "attribution_title": "Ferguson Police Department",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Ferguson+Police+Department&oldid=1360971512",
+      "exhibit_sha256": "db2d5f06ca66e1479cf0f9f86005b3a56c406f3eb5bd79cd203412d7a8ad425b"
+    },
+    "029": {
+      "description": "Baltimore's Gun Trace Task Force scandal involved officers stealing money, falsifying records and claiming fraudulent overtime. Members were convicted, exposing a gap between certified police paperwork and the activities that actually occurred.",
+      "historical_reference": "Baltimore GTTF — misconduct documented in 2018 plea",
+      "fictional_setting": "Germany, 2026.",
+      "historical_source": "https://www.justice.gov/usao-md/pr/two-defendants-baltimore-police-department-gttf-racketeering-case-sentenced-seven-years",
+      "attribution_title": "Baltimore Police Department",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Baltimore+Police+Department&oldid=1371039952",
+      "exhibit_sha256": "1d55e7f4d8ca0cc51d25d88755656c024ded0f14e5e258a3b61acc87eea3f149"
+    },
+    "030": {
+      "description": "The Atlanta Public Schools cheating scandal involved educators changing test answers and falsifying results. Performance incentives and pressure over reported scores helped turn assessment administration into organised misrepresentation of student achievement.",
+      "historical_reference": "Atlanta school-test cheating — exposed 2011",
+      "fictional_setting": "Uruguay, 2026.",
+      "historical_source": "https://dlg.usg.edu/record/dlg_ggpd_i-ga-bg600-b-ps1-be9-b2011-s3-h15",
+      "attribution_title": "Atlanta Public Schools cheating scandal",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Atlanta+Public+Schools+cheating+scandal&oldid=1364488672",
+      "exhibit_sha256": "bdaa7d2915f3a220a5514bc76d09f58d77d59660b42e895d1bae60ed898ef47b"
+    },
+    "031": {
+      "description": "The 1MDB scandal concerned the diversion of funds from Malaysia's state investment company through complex financial arrangements. Investigations connected transactions presented as legitimate investment activity with private enrichment and money laundering.",
+      "historical_reference": "1MDB — 2014 options-buyback strand",
+      "fictional_setting": "Indonesia, 2026.",
+      "historical_source": "https://www.justice.gov/archives/opa/press-release/file/973671/dl?inline=",
+      "attribution_title": "1MDB scandal",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=1MDB+scandal&oldid=1378668197",
+      "exhibit_sha256": "d60f338df8e932823f045ee3d3bed2012c975d6d80ae82110e478d3422acc73a"
+    },
+    "032": {
+      "description": "Operation Car Wash investigated corruption and money laundering connected to Petrobras and other Brazilian institutions. Contracting, inflated prices and intermediary payments were central mechanisms; later controversies over investigators and court rulings complicate the case's legal history.",
+      "historical_reference": "Petrobras — procurement overcharges and accounting, 2000s–2010s",
+      "fictional_setting": "Mexico, 2026.",
+      "historical_source": "https://www.sec.gov/files/litigation/admin/2018/33-10561.pdf",
+      "attribution_title": "Operation Car Wash",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Operation+Car+Wash&oldid=1378444710",
+      "exhibit_sha256": "7a10fe7e180679013b4cf455d2fb67edb9a88757aaa196876048b3c769b1fc6a"
+    },
+    "033": {
+      "description": "Odebrecht's international bribery scandal involved payments used to obtain contracts and influence officials. The company reached major settlements, showing how corrupt disbursements could be organised through a durable internal business process.",
+      "historical_reference": "Odebrecht Division of Structured Operations — 2006–2010s",
+      "fictional_setting": "India, 2026.",
+      "historical_source": "https://www.justice.gov/d9/press-releases/attachments/2016/12/21/odebrecht_information.pdf",
+      "attribution_title": "Odebrecht",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Odebrecht&oldid=1363465433",
+      "exhibit_sha256": "ac501265713d58c82721c0e997721281d69013c850096f61f6da227771e2b80e"
+    },
+    "034": {
+      "description": "Siemens faced a multinational bribery investigation involving intermediaries and payments connected to public contracts. Wikipedia describes extensive use of contractors to channel money, including payments associated with major projects in Argentina and other countries.",
+      "historical_reference": "Siemens Argentina identity-card project — payments continuing 2001–2007",
+      "fictional_setting": "Kenya, 2026.",
+      "historical_source": "https://www.sec.gov/news/press/2011/2011-263.htm",
+      "attribution_title": "Siemens",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Siemens&oldid=1374400910",
+      "exhibit_sha256": "fc2662870bbd1657f27e36341c1e98077d2a46ac30716fafa99da6862a5c59da"
+    },
+    "035": {
+      "description": "Airbus's bribery investigations culminated in a 2020 settlement with French, British and US authorities. The cases concerned intermediary payments and disclosure failures surrounding aircraft sales and other business arrangements.",
+      "historical_reference": "Airbus export commission disclosures — 2011–2016",
+      "fictional_setting": "South Korea, 2026.",
+      "historical_source": "https://www.justice.gov/archives/opa/pr/airbus-agrees-pay-over-39-billion-global-penalties-resolve-foreign-bribery-and-itar-case?trk=public_post_comment-text",
+      "attribution_title": "Airbus",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Airbus&oldid=1377001359",
+      "exhibit_sha256": "a64810aca3185c06a27b76aa17cb236b9d56aada03b31a8954009f38cc1d373f"
+    },
+    "036": {
+      "description": "British MP David Chaytor pleaded guilty to false accounting over parliamentary expense claims. The case illustrates how familiar reimbursement forms and supporting documents could present private or nonexistent costs as legitimate public expenses.",
+      "historical_reference": "Parliamentary expenses — David Chaytor, 2005–2008 claims",
+      "fictional_setting": "Canada, 2026.",
+      "historical_source": "https://www.standard.co.uk/hp/front/david-chaytor-admits-ps20-000-claim-for-rent-was-expenses-fiddle-6543358.html",
+      "attribution_title": "David Chaytor",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=David+Chaytor&oldid=1373175526",
+      "exhibit_sha256": "b9c4a9928ae055c0b3dffd49c4a6b080efd53811d73201ba7f76d1c125ead215"
+    },
+    "037": {
+      "description": "Rolls-Royce reached settlements with British, US and Brazilian authorities in 2017 over bribery and corruption. Payments through intermediaries and business-support arrangements featured in the investigations into how contracts were obtained.",
+      "historical_reference": "Rolls-Royce / Asia Gas Pipeline — 2009 contract strand",
+      "fictional_setting": "Azerbaijan, 2026.",
+      "historical_source": "https://www.gov.uk/government/publications/sfo-deferred-prosecution-agreement-with-rolls-royce",
+      "attribution_title": "Rolls-Royce Holdings",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Rolls-Royce+Holdings&oldid=1377906576",
+      "exhibit_sha256": "e25d8e2e057ea875495db3ae0a73c642eac9e75134d507fbadd5b8c050417f3e"
+    },
+    "038": {
+      "description": "South Africa's Zondo Commission investigated state capture, including influence over public enterprises, appointments and contracts. Its examination of government advertising and Gupta-linked businesses placed apparently ordinary commercial arrangements within a wider network of political influence.",
+      "historical_reference": "Transnet / TNA Media — state-capture contract strand",
+      "fictional_setting": "Ghana, 2026.",
+      "historical_source": "https://www.gov.za/documents/other/judicial-commission-enquiry-state-capture-report-part-1-04-jan-2022",
+      "attribution_title": "Zondo Commission",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Zondo+Commission&oldid=1376318782",
+      "exhibit_sha256": "be02100bd0ea41c23a9a694c84b3eb772b78d9be90adf985d91da2dad435fb7d"
+    },
+    "039": {
+      "description": "The UN Oil-for-Food Programme allowed Iraq to sell oil to fund humanitarian needs under sanctions. Investigations exposed kickbacks, surcharges and diversion, showing how illicit payments could be embedded in approved trade and supply arrangements.",
+      "historical_reference": "Oil-for-Food — surcharge and kickback mechanisms, 2000–2003",
+      "fictional_setting": "Jordan, 2026.",
+      "historical_source": "https://press.un.org/en/2005/ik524.doc.htm",
+      "attribution_title": "Oil-for-Food Programme",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Oil-for-Food+Programme&oldid=1355042571",
+      "exhibit_sha256": "1a79339e145abf1be3ff7b0bfdcce2508b12dcbca62b45118c99dce03c52c785"
+    },
+    "040": {
+      "description": "The Luanda Leaks investigation examined Isabel dos Santos's business empire and alleged use of political connections and public resources. Wikipedia describes the leaked-document investigation and ensuing legal disputes; dos Santos has denied wrongdoing.",
+      "historical_reference": "Luanda Leaks / Sonangol payment order — 2017, reported 2020",
+      "fictional_setting": "Gabon, 2026.",
+      "historical_source": "https://www.icij.org/investigations/luanda-leaks/how-africas-richest-woman-exploited-family-ties-shell-companies-and-inside-deals-to-build-an-empire/",
+      "attribution_title": "Isabel dos Santos",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Isabel+dos+Santos&oldid=1378352682",
+      "exhibit_sha256": "e7be292b7a3851573fc2ced6d5bdfd01a6705f0b257f6f001d1efa9c1838916d"
+    },
+    "041": {
+      "description": "Enron's accounting scandal exposed misleading financial reporting and concealed obligations. The company's collapse in 2001 demonstrated how financial structures and accounting judgments could sustain a profitable appearance while hiding serious underlying problems.",
+      "historical_reference": "Enron — reserve-account manipulation, 2000–2001",
+      "fictional_setting": "Denmark, 2026.",
+      "historical_source": "https://www.sec.gov/newsroom/press-releases/2004-18-sec-charges-jeffrey-k-skilling-enrons-former-president-chief-executive-officer-chief-operating",
+      "attribution_title": "Enron scandal",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Enron+scandal&oldid=1377170600",
+      "exhibit_sha256": "b13e51ac05afa917e25a70ce8ee83a81bd7641c91f4608816a52fc5eda1db5f1"
+    },
+    "042": {
+      "description": "WorldCom inflated earnings through accounting fraud discovered in 2002. Treating ordinary operating expenses as capital investment was a central device, changing reported profitability without changing the underlying services purchased.",
+      "historical_reference": "WorldCom — line-cost reclassification, 2000–2002",
+      "fictional_setting": "Finland, 2026.",
+      "historical_source": "https://www.sec.gov/litigation/complaints/comp17829.htm",
+      "attribution_title": "WorldCom scandal",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=WorldCom+scandal&oldid=1377395259",
+      "exhibit_sha256": "89419cf1b2e80cff992166377e0ff97c8922d58f5926ddce2de4ae339877a737"
+    },
+    "043": {
+      "description": "Parmalat collapsed in 2003 after extensive financial misrepresentation, hidden debt and unreliable balance-sheet claims. Wikipedia describes a growing gap between recorded finances and the company's actual obligations.",
+      "historical_reference": "Parmalat — debt misclassification and consolidation, exposed 2003",
+      "fictional_setting": "Spain, 2026.",
+      "historical_source": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-18803",
+      "attribution_title": "Parmalat",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Parmalat&oldid=1372813920",
+      "exhibit_sha256": "3e5538ad84b7c674b955041cdce9a697982eac6dc2acf138280fba18302d80e7"
+    },
+    "044": {
+      "description": "Satyam's accounting scandal involved falsified accounts and overstated financial performance. The fraud came to light in 2009, revealing that the apparent reliability of routine corporate reporting depended on fabricated underlying information.",
+      "historical_reference": "Satyam — false invoice exports, 2003–2008",
+      "fictional_setting": "Philippines, 2026.",
+      "historical_source": "https://www.sec.gov/news/press/2011/2011-81.htm",
+      "attribution_title": "Satyam scandal",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Satyam+scandal&oldid=1368856547",
+      "exhibit_sha256": "3deb79d130555647cecb3bcc9674bcbab916a29b225ab96c8dc0ed74a2ede899"
+    },
+    "045": {
+      "description": "Olympus used acquisition-related payments and other arrangements to conceal earlier investment losses. The accounting scandal emerged in 2011 after its chief executive challenged suspicious transactions and was dismissed.",
+      "historical_reference": "Olympus — acquisition payments concealing losses, 2006–2008",
+      "fictional_setting": "South Korea, 2026.",
+      "historical_source": "https://www.olympus-global.com/news/rebirth/pdf/csr_confidence_2012.pdf",
+      "attribution_title": "Olympus scandal",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Olympus+scandal&oldid=1369046230",
+      "exhibit_sha256": "bcd66e1f5a0a213e235ace85f23d3be2600fe0f075f5004bda4322d65a3a82b1"
+    },
+    "046": {
+      "description": "Toshiba disclosed a major accounting scandal in 2015 involving overstated profits over several years. Senior executives resigned, and the episode drew attention to pressure on financial reporting and estimates used to recognise earnings.",
+      "historical_reference": "Toshiba — contract-cost estimates, examined 2015",
+      "fictional_setting": "Germany, 2026.",
+      "historical_source": "https://www.global.toshiba/content/dam/toshiba/migration/corp/irAssets/about/ir/en/news/20151208_2.pdf",
+      "attribution_title": "Toshiba",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Toshiba&oldid=1372330626",
+      "exhibit_sha256": "9987dce71d6c55bd195a3b44754ce71cf011c862cfdcc2cbe62fe34fadaa6cd9"
+    },
+    "047": {
+      "description": "Wirecard collapsed in 2020 after longstanding reporting irregularities and the discovery that supposed cash balances could not be substantiated. The scandal also exposed failures by auditors, regulators and other financial gatekeepers.",
+      "historical_reference": "Wirecard — purported trustee cash, exposed 2020",
+      "fictional_setting": "Netherlands, 2026.",
+      "historical_source": "https://www.esma.europa.eu/sites/default/files/library/esma20-95-1381_2020_annual_report.pdf",
+      "attribution_title": "Wirecard scandal",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Wirecard+scandal&oldid=1375364902",
+      "exhibit_sha256": "699375a493fd93408803dcd63421ee576a79ce9f07fa8793a76a27fb2c911f10"
+    },
+    "048": {
+      "description": "Luckin Coffee disclosed in 2020 that a large share of its reported 2019 sales had been fabricated. The revelations led to executive dismissals, a share-price collapse and its removal from Nasdaq.",
+      "historical_reference": "Luckin Coffee — fabricated sales, 2019–2020",
+      "fictional_setting": "Vietnam, 2026.",
+      "historical_source": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-24987",
+      "attribution_title": "Luckin Coffee",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Luckin+Coffee&oldid=1377425797",
+      "exhibit_sha256": "0808e3ae59e20a32ca6fd8c3b24702846ed7a8aa07f6576d27af06986c7593b9"
+    },
+    "049": {
+      "description": "Steinhoff disclosed accounting irregularities in 2017, triggering a collapse in confidence and investigations. Its financial statements had presented a misleading picture of the multinational retail group's performance and position.",
+      "historical_reference": "Steinhoff — purported independent-party income, 2009–2017",
+      "fictional_setting": "Italy, 2026.",
+      "historical_source": "https://www.politicsweb.co.za/documents/what-pwc-uncovered--steinhoff",
+      "attribution_title": "Steinhoff International",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Steinhoff+International&oldid=1370213437",
+      "exhibit_sha256": "d883bf3853c1abd83038dfdca55c214aa24558368b6f3567a224ce5bc7748283"
+    },
+    "050": {
+      "description": "FTX entered bankruptcy in November 2022 after customer withdrawals exposed a major shortfall. The collapse focused scrutiny on customer funds, affiliated trading firm Alameda Research and the representations made about the exchange's finances.",
+      "historical_reference": "FTX / Alameda — customer funds and lender reporting, 2019–2022",
+      "fictional_setting": "Malta, 2026.",
+      "historical_source": "https://www.justice.gov/archives/opa/pr/ftx-founder-indicted-fraud-money-laundering-and-campaign-finance-offenses",
+      "attribution_title": "Bankruptcy of FTX",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Bankruptcy+of+FTX&oldid=1377686527",
+      "exhibit_sha256": "0ef4e9a5248098f792581885d4f25127024dd37ecb1e36cbdf79ed9da315114e"
+    },
+    "051": {
+      "description": "The Libor scandal concerned attempts to influence benchmark interest rates through banks' submissions. Investigations showed how traders' preferences and reputational concerns could affect figures presented as estimates of borrowing costs.",
+      "historical_reference": "Barclays LIBOR / Euribor submissions — 2005–2009",
+      "fictional_setting": "Sweden, 2026.",
+      "historical_source": "https://www.cftc.gov/PressRoom/PressReleases/6289-12",
+      "attribution_title": "Libor scandal",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Libor+scandal&oldid=1369100601",
+      "exhibit_sha256": "692d171ea55890c8c8aa4f4cb5a225e8174d561d82d9255062d106962afc773c"
+    },
+    "052": {
+      "description": "The foreign-exchange scandal involved bank traders coordinating around currency benchmarks and sharing sensitive information. Investigations connected informal chat communications with conduct affecting prices used by clients and financial markets.",
+      "historical_reference": "FX dealer collusion — euro/dollar spot market, 2000s–2010s",
+      "fictional_setting": "Switzerland, 2026.",
+      "historical_source": "https://www.justice.gov/archives/opa/gallery/fx-spot-market-manipulation-press-conference",
+      "attribution_title": "Forex scandal",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Forex+scandal&oldid=1377326868",
+      "exhibit_sha256": "b68d9898f54bc7944aebd83470f4fd7aa2f749051d24d35ce41b0581ca4ab9d0"
+    },
+    "053": {
+      "description": "Wells Fargo employees opened accounts without customers' knowledge or consent amid aggressive sales targets. The scandal showed how internal product counts and rewards could promote activity that appeared commercially successful while harming customers.",
+      "historical_reference": "Wells Fargo unauthorized accounts — exposed 2016",
+      "fictional_setting": "Canada, 2026.",
+      "historical_source": "https://www.consumerfinance.gov/enforcement/actions/wells-fargo-bank-2016/",
+      "attribution_title": "Wells Fargo cross-selling scandal",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Wells+Fargo+cross-selling+scandal&oldid=1373774270",
+      "exhibit_sha256": "6e0a14bf7699b0168c041c127e2bc591b572321ca579b4f501cbc1f684a7c540"
+    },
+    "054": {
+      "description": "HSBC's 2012 settlement followed serious anti-money-laundering and sanctions-control failures. Investigations described transactions involving restricted jurisdictions and inadequacies in the bank's monitoring, connecting payment processing with failures of institutional oversight.",
+      "historical_reference": "HSBC sanctions-payment messages — continuing through 2006",
+      "fictional_setting": "Singapore, 2026.",
+      "historical_source": "https://www.justice.gov/archives/opa/pr/hsbc-holdings-plc-and-hsbc-bank-usa-na-admit-anti-money-laundering-and-sanctions-violations?trk=public_post_comment-text",
+      "attribution_title": "HSBC",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=HSBC&oldid=1379102741",
+      "exhibit_sha256": "8305009a5089462ac61567759d96b9c2d4537702b846ba5a2f007a6af52fbc71"
+    },
+    "055": {
+      "description": "Danske Bank's Estonian branch handled a large volume of suspicious nonresident transactions between 2007 and 2015. The scandal exposed failures in customer scrutiny, internal controls and the assurances surrounding a lucrative business portfolio.",
+      "historical_reference": "Danske Bank Estonia nonresident portfolio — 2008–2016",
+      "fictional_setting": "Luxembourg, 2026.",
+      "historical_source": "https://www.justice.gov/archives/opa/pr/danske-bank-pleads-guilty-fraud-us-banks-multi-billion-dollar-scheme-access-us-financial",
+      "attribution_title": "Danske Bank money laundering scandal",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Danske+Bank+money+laundering+scandal&oldid=1369372171",
+      "exhibit_sha256": "84d44ac45056c15236457162d9e3b99768cb1af5db62cc760f183b4157398774"
+    },
+    "056": {
+      "description": "Credit Suisse faced investigations into helping US clients evade taxes and pleaded guilty in 2014. The case concerned how private-banking services and account arrangements could conceal beneficial ownership and offshore assets.",
+      "historical_reference": "Credit Suisse undeclared US accounts — through 2009",
+      "fictional_setting": "Austria, 2026.",
+      "historical_source": "https://www.justice.gov/archives/opa/pr/credit-suisse-pleads-guilty-conspiracy-aid-and-assist-us-taxpayers-filing-false-returns",
+      "attribution_title": "Credit Suisse",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Credit+Suisse&oldid=1378823415",
+      "exhibit_sha256": "81414541f4adb5533e71ab676c9c705abf2ae00bd77bf30b181d00a4a8987948"
+    },
+    "057": {
+      "description": "The SEC's ABACUS case concerned disclosures about a mortgage-linked investment and a participant that helped select assets while taking a short position. Goldman Sachs settled the case in 2010, highlighting the importance of explaining economic interests behind portfolio selection.",
+      "historical_reference": "Goldman Sachs ABACUS 2007-AC1",
+      "fictional_setting": "Netherlands, 2026.",
+      "historical_source": "https://www.sec.gov/newsroom/press-releases/2010-59-sec-charges-goldman-sachs-fraud-structuring-marketing-cdo-tied-subprime-mortgages",
+      "attribution_title": "Goldman Sachs",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Goldman+Sachs&oldid=1377854523",
+      "exhibit_sha256": "473d32a935e0c5855b9159cf9ff487bd18e1a426c7ad84cf9ca3611658fc9f57"
+    },
+    "058": {
+      "description": "Lehman Brothers used Repo 105 transactions to classify short-term financing as sales. The resulting cash temporarily reduced reported debt around reporting dates, making its balance sheet appear less leveraged before the transactions reversed.",
+      "historical_reference": "Lehman Repo 105 — 2007–2008",
+      "fictional_setting": "Australia, 2026.",
+      "historical_source": "https://elischolar.library.yale.edu/ypfs-documents/677/",
+      "attribution_title": "Repo 105",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Repo+105&oldid=1360572936",
+      "exhibit_sha256": "63001e696e1b4546fa616dfd06428828e89c9f490bd58ee26f5e71d422ad069e"
+    },
+    "059": {
+      "description": "JPMorgan's 2012 London Whale losses arose from large derivatives positions in its Chief Investment Office. Investigations examined valuation and risk-control weaknesses, including the reliability of internal measures used to describe the growing exposure.",
+      "historical_reference": "JPMorgan London Whale — 2012 valuation controls",
+      "fictional_setting": "Canada, 2026.",
+      "historical_source": "https://www.sec.gov/newsroom/press-releases/2013-187",
+      "attribution_title": "2012 JPMorgan Chase trading loss",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=2012+JPMorgan+Chase+trading+loss&oldid=1373048381",
+      "exhibit_sha256": "eb86769a532f6a592ea0de0a53d8cacbc8ee38437ab8fe8bbed8ec8493ca7954"
+    },
+    "060": {
+      "description": "The CumEx-Files investigation described schemes involving dividend taxes and multiple refund claims. Trading and certification arrangements enabled claims on public funds that exceeded the tax actually paid.",
+      "historical_reference": "Cum-ex — German dividend-tax reimbursement mechanism",
+      "fictional_setting": "Belgium, 2026.",
+      "historical_source": "https://www.bafin.de/SharedDocs/Downloads/EN/Jahresbericht/dl_jb_2019_en.pdf?__blob=publicationFile&v=2",
+      "attribution_title": "CumEx-Files",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=CumEx-Files&oldid=1374267568",
+      "exhibit_sha256": "9f9ed9240aa2d830f89a398dc1adbcb994f8ccfcb1e24bc49a2d044e348b3dcf"
+    },
+    "061": {
+      "description": "The Facebook–Cambridge Analytica scandal involved collection of personal data for political profiling without informed consent. Information gathered through an app extended beyond direct participants to their connected users, expanding the reach of the dataset.",
+      "historical_reference": "Cambridge Analytica / GSRApp — 2014–2015 collection",
+      "fictional_setting": "Brazil, 2026.",
+      "historical_source": "https://www.ftc.gov/news-events/news/press-releases/2019/12/ftc-issues-opinion-order-against-cambridge-analytica-deceiving-consumers-about-collection-facebook?ftag=MSF0951a18",
+      "attribution_title": "Facebook–Cambridge Analytica data scandal",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Facebook%E2%80%93Cambridge+Analytica+data+scandal&oldid=1378799992",
+      "exhibit_sha256": "f72f71b3128b157a1a87e7c67edc4318f5a859f01d8ccec94c5efac5c37771ac"
+    },
+    "062": {
+      "description": "Uber's Greyball tool was used to identify and avoid serving some enforcement officials. Public reporting in 2017 prompted investigations and exposed how the app could show a different service experience to selected users.",
+      "historical_reference": "Uber Greyball — Portland, December 2014",
+      "fictional_setting": "Spain, 2026.",
+      "historical_source": "https://www.investing.com/news/technology-news/portland-probe-finds-uber-used-software-to-evade-16-government-officials-529208",
+      "attribution_title": "Uber",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Uber&oldid=1378212950",
+      "exhibit_sha256": "72e8270a06df69a44d8f57fe3de484214dd57d92ba5a52bfe4da8ec5c7740956"
+    },
+    "063": {
+      "description": "Uber concealed a 2016 breach involving customer and driver information and paid the attackers. The episode became public in 2017; investigators examined its presentation as a security-reward payment and the handling of disclosure obligations.",
+      "historical_reference": "Uber breach nondisclosure — 2016–2017",
+      "fictional_setting": "France, 2026.",
+      "historical_source": "https://www.ftc.gov/news-events/news/press-releases/2018/10/federal-trade-commission-gives-final-approval-settlement-uber",
+      "attribution_title": "Uber",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Uber&oldid=1378212950",
+      "exhibit_sha256": "2becf4f90a05db0b2893a9d12754d409f911e3bc7f99cbf28af371fe4f157f3b"
+    },
+    "064": {
+      "description": "Google Buzz automatically drew on Gmail relationships when introducing its social features. Privacy criticism centred on the exposure of contacts and defaults that made previously private relationships visible to others.",
+      "historical_reference": "Google Buzz — 2010 launch",
+      "fictional_setting": "Japan, 2026.",
+      "historical_source": "https://www.ftc.gov/news-events/news/press-releases/2011/10/ftc-gives-final-approval-settlement-google-over-buzz-rollout",
+      "attribution_title": "Google Buzz",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Google+Buzz&oldid=1376127024",
+      "exhibit_sha256": "046048e2f600025454ca381feb7869ac3ad2cb40fbb477648ffe343e09cd18c1"
+    },
+    "065": {
+      "description": "In 2012, Google agreed to a US settlement over misrepresented privacy assurances to Safari users. The FTC case concerned advertising cookies placed despite browser settings and statements suggesting that users would be excluded from such tracking.",
+      "historical_reference": "Google Safari tracking — 2011–2012",
+      "fictional_setting": "Germany, 2026.",
+      "historical_source": "https://www.ftc.gov/news-events/news/press-releases/2012/08/google-will-pay-225-million-settle-ftc-charges-it-misrepresented-privacy-assurances-users-apples",
+      "attribution_title": "United States v. Google Inc.",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=United+States+v.+Google+Inc.&oldid=1362071159",
+      "exhibit_sha256": "ddc194d80fb14cacb649e3d59c673575e2f405e497c71231bb145c0086dced71"
+    },
+    "066": {
+      "description": "Facebook's emotional-contagion experiment altered the emotional content shown in users' feeds and studied later posts. Its publication in 2014 prompted criticism over consent and the platform's power to conduct behavioural experiments at scale.",
+      "historical_reference": "Facebook emotional-contagion experiment — January 2012",
+      "fictional_setting": "South Korea, 2026.",
+      "historical_source": "https://doi.org/10.1073/pnas.1320040111",
+      "attribution_title": "Criticism of Facebook",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Criticism+of+Facebook&oldid=1378703537",
+      "exhibit_sha256": "1ef2637962b839f810269bc34dd61d1e2c2f051494e264e025fb50951dd38508"
+    },
+    "067": {
+      "description": "Wikipedia's account of the Rohingya genocide describes coordinated use of Facebook pages to spread fear and hatred of the minority. The platform's role became part of wider scrutiny of how online distribution contributed to persecution in Myanmar.",
+      "historical_reference": "Facebook anti-Rohingya amplification — Myanmar, before and during 2017",
+      "fictional_setting": "Sri Lanka, 2026.",
+      "historical_source": "https://www.amnesty.org/en/documents/asa16/5933/2022/en/",
+      "attribution_title": "Rohingya genocide",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Rohingya+genocide&oldid=1378152481",
+      "exhibit_sha256": "2b0172f14cf04b731aeae45e33c198365ceb2e0c57ec414dd75a993c17262406"
+    },
+    "068": {
+      "description": "Chinese journalist Shi Tao was sentenced to prison in 2005 after sharing a government document overseas. Yahoo supplied account information that helped identify him, prompting criticism of the company's cooperation with authorities.",
+      "historical_reference": "Yahoo / Shi Tao — 2004 disclosure, 2005 conviction",
+      "fictional_setting": "Tunisia, 2026.",
+      "historical_source": "https://www.hrw.org/news/2005/09/28/china-end-censorship-internet",
+      "attribution_title": "Shi Tao (journalist)",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Shi+Tao+%28journalist%29&oldid=1372799348",
+      "exhibit_sha256": "4bf605a8c8c0e78b4c5d66bad7bb5f0a508daa79c4583f0af5cff53bc213172f"
+    },
+    "069": {
+      "description": "Wikipedia describes Alexa as Amazon's voice-assistant system, including its processing of spoken requests and associated privacy concerns. This provides platform context for the child-data retention and deletion case documented in the historical source below.",
+      "historical_reference": "Amazon Alexa retention and deletion — FTC case, 2023",
+      "fictional_setting": "Canada, 2026.",
+      "historical_source": "https://search.ftc.gov/news-events/news/press-releases/2023/05/ftc-doj-charge-amazon-violating-childrens-privacy-law-keeping-kids-alexa-voice-recordings-forever",
+      "attribution_title": "Amazon Alexa",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Amazon+Alexa&oldid=1376838791",
+      "exhibit_sha256": "3ba0e902058bc26aa1233d19692e766899b5230e44c9cdb7a570bd0a21b5deba"
+    },
+    "070": {
+      "description": "Batterygate concerned Apple's deliberate performance reductions on iPhones with ageing batteries. The company described the changes as protection against unexpected shutdowns, while criticism focused on the lack of clear initial disclosure to users.",
+      "historical_reference": "Apple performance management — 2016–2017 updates",
+      "fictional_setting": "Finland, 2026.",
+      "historical_source": "https://www.ag.state.mn.us/Office/Communications/2020/11/18_Apple.asp",
+      "attribution_title": "Batterygate",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Batterygate&oldid=1372673479",
+      "exhibit_sha256": "7f7e86b9980065912d6fb72d2311fc5db9fd130999681f32bd0289ba9b339e39"
+    },
+    "071": {
+      "description": "Volkswagen programmed diesel vehicles to behave differently during emissions testing than in ordinary driving. The 2015 scandal exposed a gap between certified results and real-world pollution, leading to recalls, penalties and criminal proceedings.",
+      "historical_reference": "Volkswagen Dieselgate — US 2.0-litre vehicles, 2009–2015",
+      "fictional_setting": "South Korea, 2026.",
+      "historical_source": "https://www.epa.gov/archive/epa/newsreleases/epa-update-recent-volkswagen-announcement.html",
+      "attribution_title": "Volkswagen emissions scandal",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Volkswagen+emissions+scandal&oldid=1378844952",
+      "exhibit_sha256": "0525a1ca0e9ddf25fd11605463b463fb4344400d399a177faabb52427532d352"
+    },
+    "072": {
+      "description": "The Boeing 737 MAX was grounded after two fatal crashes in 2018 and 2019. Investigations examined the MCAS flight-control system, certification and pilot information, including how changes to aircraft behaviour were explained in training.",
+      "historical_reference": "Boeing 737 MAX — MCAS training-document strand",
+      "fictional_setting": "Brazil, 2026.",
+      "historical_source": "https://www.justice.gov/criminal/criminal-fraud/file/1472076/dl?inline=",
+      "attribution_title": "Boeing 737 MAX groundings",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Boeing+737+MAX+groundings&oldid=1378734037",
+      "exhibit_sha256": "9bc4dbed877ede42577b16c246087b1e922c40abb28a7c80d63481c406f24387"
+    },
+    "073": {
+      "description": "General Motors recalled vehicles with defective ignition switches that could stop engines and disable airbags. The 2014 controversy focused on the company's long awareness of the problem and delays in addressing its safety consequences.",
+      "historical_reference": "GM ignition switch — nondisclosure, 2012–2014",
+      "fictional_setting": "Germany, 2026.",
+      "historical_source": "https://www.justice.gov/usao-sdny/programs/victim-witness-services/united-states-v-general-motors",
+      "attribution_title": "General Motors ignition switch recalls",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=General+Motors+ignition+switch+recalls&oldid=1360496163",
+      "exhibit_sha256": "331ffd786c8dc128c98ee1045a904cd8c39ea93264b459004630cbdcac59555b"
+    },
+    "074": {
+      "description": "Takata's defective airbag inflators led to deaths, injuries and extensive recalls. The scandal included falsified testing information, exposing how customer-facing validation could misrepresent the behaviour of a safety-critical component.",
+      "historical_reference": "Takata inflator testing — 2000–2015",
+      "fictional_setting": "Thailand, 2026.",
+      "historical_source": "https://www.justice.gov/criminal/criminal-vns/case/united-states-v-tanaka-et-al-takata-corporation",
+      "attribution_title": "Takata Corporation",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Takata+Corporation&oldid=1375338040",
+      "exhibit_sha256": "44726db71f1c494a051689e8f0a75907766bf099cad34a318cc7efa078a130bf"
+    },
+    "075": {
+      "description": "Toyota's 2009–2011 recalls addressed unintended acceleration concerns involving floor mats and sticking pedals. The controversy included scrutiny of the company's response and the timing of information supplied about known defects.",
+      "historical_reference": "Toyota sticky-pedal chronology — 2009–2010",
+      "fictional_setting": "Italy, 2026.",
+      "historical_source": "https://www.justice.gov/archives/opa/pr/justice-department-announces-criminal-charge-against-toyota-motor-corporation-and-deferred",
+      "attribution_title": "2009–2011 Toyota vehicle recalls",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=2009%E2%80%932011+Toyota+vehicle+recalls&oldid=1374592214",
+      "exhibit_sha256": "df49dddc6874289588fcfb7a1968380d73fd89922ae683dd185b70ef51379554"
+    },
+    "076": {
+      "description": "Kobe Steel admitted in 2017 that it had falsified strength and durability data for supplied materials. The revelations affected customers across industries and called into question certificates used to accept components as meeting specifications.",
+      "historical_reference": "Kobe Steel quality certificates — exposed 2017",
+      "fictional_setting": "Sweden, 2026.",
+      "historical_source": "https://www.kobelco.co.jp/english/about-kobelco/progress/main-facts.html",
+      "attribution_title": "Kobe Steel",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Kobe+Steel&oldid=1359570895",
+      "exhibit_sha256": "a543a0c3ba93fa201ea794f25c978b9b92580c041df952217664695edcd2f6be"
+    },
+    "077": {
+      "description": "Mitsubishi Motors acknowledged fuel-economy testing irregularities in 2016 after Nissan identified discrepancies. The scandal concerned test methods and reported performance, and preceded Nissan's acquisition of a controlling stake.",
+      "historical_reference": "Mitsubishi fuel-economy certification — continuing through 2016",
+      "fictional_setting": "France, 2026.",
+      "historical_source": "https://www.mitsubishi-motors.com/content/dam/com/ir_en/pdf/anual/2016/annual2016.pdf",
+      "attribution_title": "Mitsubishi Motors",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Mitsubishi+Motors&oldid=1373969913",
+      "exhibit_sha256": "7fd01e6c642eab25bcfe09c955d8d54248d5019df36d706a27c70f769ff6bbe9"
+    },
+    "078": {
+      "description": "In 2002, TEPCO was exposed for falsifying nuclear-plant inspection records and concealing safety incidents. Reactors were shut for inspection and executives resigned, demonstrating the significance of apparently routine condition reports.",
+      "historical_reference": "TEPCO inspection-record scandal — disclosed 2002",
+      "fictional_setting": "Canada, 2026.",
+      "historical_source": "https://www.tepco.co.jp/en/press/corp-com/release/02091701-e.html",
+      "attribution_title": "Tokyo Electric Power Company",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Tokyo+Electric+Power+Company&oldid=1378843968",
+      "exhibit_sha256": "ffeb0155b17869b52abace4807061b4bfc15c048faa175f640b0d2b45acb3998"
+    },
+    "079": {
+      "description": "The 2010 Deepwater Horizon disaster caused a major oil spill in the Gulf of Mexico. Disputes over the flow rate and information released to officials became part of the investigations and legal proceedings following the spill.",
+      "historical_reference": "BP spill-rate representations — 2010",
+      "fictional_setting": "Norway, 2026.",
+      "historical_source": "https://www.justice.gov/iso/opa/resources/73920121115143627533671.pdf",
+      "attribution_title": "Deepwater Horizon oil spill",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Deepwater+Horizon+oil+spill&oldid=1378343733",
+      "exhibit_sha256": "c0c309c5d94c4622db722f848e274bbb8acc84c02ccb891fc04e7ae0605f5f14"
+    },
+    "080": {
+      "description": "The 2010 Upper Big Branch mine explosion killed 29 miners in West Virginia. Investigations identified serious safety failures and obstruction of oversight, placing routine inspections and records within the chain of responsibility.",
+      "historical_reference": "Upper Big Branch — dual safety records, 2010",
+      "fictional_setting": "Chile, 2026.",
+      "historical_source": "https://www.dol.gov/newsroom/releases/msha/msha20111206",
+      "attribution_title": "Upper Big Branch Mine disaster",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Upper+Big+Branch+Mine+disaster&oldid=1372071287",
+      "exhibit_sha256": "8cc119426d8589a35f767a880ce603c87c0b7ef2e4f29a16c56c5c71e7ad4aeb"
+    },
+    "081": {
+      "description": "Purdue's 2007 criminal case concerned misleading promotion of OxyContin's addiction risks. The company and executives faced penalties, showing how comparative sales language could go beyond the evidence and distort understanding of a drug's risks.",
+      "historical_reference": "Purdue — OxyContin promotional claims, through 2001; plea in 2007",
+      "fictional_setting": "Ireland, 2026.",
+      "historical_source": "https://media.defense.gov/2007/may/10/2001711223/-1/-1/1/purdue_frederick_1.pdf",
+      "attribution_title": "Purdue Pharma",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Purdue+Pharma&oldid=1374762910",
+      "exhibit_sha256": "3cfdbca81286d585241ba0444fbb0f483e1b44dd9d45635104517cc071ae400a"
+    },
+    "082": {
+      "description": "McKinsey advised opioid manufacturers on expanding sales, including work for Purdue Pharma. It later reached major settlements over that advice, bringing scrutiny to the targets, incentives and commercial strategies embedded in consulting deliverables.",
+      "historical_reference": "McKinsey / Purdue — Evolve to Excellence, 2013",
+      "fictional_setting": "Spain, 2026.",
+      "historical_source": "https://www.mckinsey.com/~/media/mckinsey/about%20us/opioidfacts/statement%20of%20facts.pdf",
+      "attribution_title": "McKinsey & Company",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=McKinsey+%26+Company&oldid=1376331778",
+      "exhibit_sha256": "2470c5c6844eff4ccf60bf96f07149e6c6154c44d3375668d2af6e6195553946"
+    },
+    "083": {
+      "description": "GSK's 2012 US settlement covered unlawful promotion and failures to report safety information, among other conduct. The case connected sales practices and regulatory submissions with the responsibilities of a large pharmaceutical company.",
+      "historical_reference": "GSK — Avandia safety reporting, resolved 2012",
+      "fictional_setting": "Italy, 2026.",
+      "historical_source": "https://www.justice.gov/archives/opa/pr/glaxosmithkline-plead-guilty-and-pay-3-billion-resolve-fraud-allegations-and-failure-report?s=03",
+      "attribution_title": "GSK plc",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=GSK+plc&oldid=1377879958",
+      "exhibit_sha256": "6f2ce7665c386c9aa13c9496b4347ae20cf27db87a6214dc848506168cda3947"
+    },
+    "084": {
+      "description": "Pfizer's 2009 settlement concerned unlawful promotion of medicines, including Bextra for uses and doses not approved by regulators. The case showed how field materials and sales activity could extend beyond authorised prescribing claims.",
+      "historical_reference": "Pfizer / Pharmacia & Upjohn — Bextra promotion, resolved 2009",
+      "fictional_setting": "Portugal, 2026.",
+      "historical_source": "https://www.justice.gov/archives/opa/pr/justice-department-announces-largest-health-care-fraud-settlement-its-history",
+      "attribution_title": "Pfizer",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Pfizer&oldid=1378286412",
+      "exhibit_sha256": "983c6c4b03caad42def626f5d5e0725be4578c0f3d76d4d0efb5a31f28da71d1"
+    },
+    "085": {
+      "description": "Merck faced criminal and civil proceedings concerning Vioxx marketing, resolved in a 2011 settlement. The case placed the timing and scope of promotion alongside the drug's regulatory authorisations.",
+      "historical_reference": "Merck — Vioxx rheumatoid-arthritis promotion, resolved 2011",
+      "fictional_setting": "Greece, 2026.",
+      "historical_source": "https://www.justice.gov/civil/cpb/case/united-states-v-merck-sharp-dohme-corp-no-11-cr-10384-d-mass",
+      "attribution_title": "Rofecoxib",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Rofecoxib&oldid=1377258824",
+      "exhibit_sha256": "a780b1f91af477754ec5e9434d3c9461c162b0bc0ed0106b54ad470c1959a808"
+    },
+    "086": {
+      "description": "Theranos claimed that its proprietary blood-testing technology could perform a broad range of tests from small samples. Investigations exposed unreliable claims and dependence on conventional equipment, leading to the company's collapse and fraud proceedings.",
+      "historical_reference": "Theranos — investor representations, 2013–2015",
+      "fictional_setting": "Switzerland, 2026.",
+      "historical_source": "https://www.sec.gov/newsroom/press-releases/2018-41",
+      "attribution_title": "Theranos",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Theranos&oldid=1377704009",
+      "exhibit_sha256": "3f52a7e5dd0e685bb88998ed1a1c6c4c943a1f79fb709ec086b68f64265dfba8"
+    },
+    "087": {
+      "description": "Ranbaxy faced regulatory action over falsified data and manufacturing failures. Wikipedia describes halted application reviews and its 2013 guilty plea, illustrating the role of underlying evidence in drug submissions.",
+      "historical_reference": "Ranbaxy — unreliable drug-application data, consent decree in 2012",
+      "fictional_setting": "Mexico, 2026.",
+      "historical_source": "https://www.justice.gov/archives/opa/pr/us-files-consent-decree-permanent-injunction-against-pharmaceutical-ranbaxy-laboratories",
+      "attribution_title": "Ranbaxy Laboratories",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Ranbaxy+Laboratories&oldid=1372343411",
+      "exhibit_sha256": "c2437424307721ad468dcc115a4707fcb705c4b6b86040059b8745ff31a44549"
+    },
+    "088": {
+      "description": "Kraft Heinz settled SEC charges in 2021 over improper accounting practices. The case concerned reporting that overstated performance, including procurement-related savings, and resulted in corporate and individual penalties.",
+      "historical_reference": "Kraft Heinz — supplier discounts and cost accounting, 2015–2018",
+      "fictional_setting": "Denmark, 2026.",
+      "historical_source": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-25195",
+      "attribution_title": "Kraft Heinz",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Kraft+Heinz&oldid=1375884026",
+      "exhibit_sha256": "ea088e4288be553331aced4c2ea43b8bc4d8e6bcee02286bc85324f6d6397978"
+    },
+    "089": {
+      "description": "Wikipedia recounts ProPublica's 2023 reporting on Cigna's PxDx process, in which doctors reportedly denied batches of claims without opening patient files. Cigna disputed that portrayal; the reporting and the company's response are separate evidentiary positions.",
+      "historical_reference": "Cigna — procedure-to-diagnosis payment review, reported 2023",
+      "fictional_setting": "Australia, 2026.",
+      "historical_source": "https://energycommerce.house.gov/posts/e-and-c-republicans-press-cigna-for-clarification-after-investigative-report-accuses-insurance-company-of-denying-claims-without-reading-them",
+      "attribution_title": "The Cigna Group",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=The+Cigna+Group&oldid=1377849264",
+      "exhibit_sha256": "e43ac3dd029082fb1bf8e2d6160edfc17b6fc64bb6054aaf6b6eb10cbd513e00"
+    },
+    "090": {
+      "description": "Research discussed in Wikipedia found that a healthcare algorithm using predicted cost as a proxy for need disadvantaged Black patients. Unequal access to spending meant that equally sick patients could receive different priority scores.",
+      "historical_reference": "Health-management algorithm — cost as a proxy for need, studied 2019",
+      "fictional_setting": "Canada, 2026.",
+      "historical_source": "https://doi.org/10.1126/science.aax2342",
+      "attribution_title": "Algorithmic bias",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Algorithmic+bias&oldid=1378983208",
+      "exhibit_sha256": "184f13a38ce8ee43612c6f08e01fbd39d1733803c4c4843e5f2660dde86e3505"
+    },
+    "091": {
+      "description": "Wikipedia's algorithmic-bias article describes Amazon's experimental recruiting tool disadvantaging women's applications, including through résumé language. The example illustrates how historical hiring patterns can enter apparently neutral scoring features.",
+      "historical_reference": "Amazon — experimental résumé-ranking tool, reported 2018",
+      "fictional_setting": "Germany, 2026.",
+      "historical_source": "https://www.investing.com/news/stock-market-news/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-1637988",
+      "attribution_title": "Algorithmic bias",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Algorithmic+bias&oldid=1378983208",
+      "exhibit_sha256": "e561dba64da97b180752d7c6841b2c65014e5850b6945e703914acca150af280"
+    },
+    "092": {
+      "description": "Meta settled a US Justice Department housing-advertising case in 2022. The dispute concerned discrimination in ad targeting and delivery, illustrating that an audience-selection system can affect access to housing information even when exclusions are not explicit in an advertiser's brief.",
+      "historical_reference": "Meta — housing-ad delivery, settlement in 2022",
+      "fictional_setting": "Ireland, 2026.",
+      "historical_source": "https://www.justice.gov/crt/case/united-states-v-meta-platforms-inc-fka-facebook-inc-sdny",
+      "attribution_title": "Meta Platforms",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Meta+Platforms&oldid=1378610628",
+      "exhibit_sha256": "13c19caf200465ffceb2360b58caa8c672d2a0be6cbd803ed4ddd587a7bf37c2"
+    },
+    "093": {
+      "description": "The PwC tax scandal concerned confidential Australian government tax-policy information being used to benefit the firm's commercial work. The episode exposed a conflict between advisory access to public policymaking and services sold to corporate clients.",
+      "historical_reference": "PwC Australia — confidential tax-policy information, exposed 2023",
+      "fictional_setting": "New Zealand, 2026.",
+      "historical_source": "https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Finance_and_Public_Administration/Consultingservices/First_PwC_Report",
+      "attribution_title": "PwC tax scandal",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=PwC+tax+scandal&oldid=1366835397",
+      "exhibit_sha256": "4e53815190ee4ecfcc6d1885b386899f22a7a2c150fa682f7c54a6b74e8cf514"
+    },
+    "094": {
+      "description": "Bell Pottinger's work for Gupta-linked Oakbay in South Africa involved a campaign that inflamed racial tensions. The resulting scandal led to professional sanctions, loss of clients and the firm's collapse into administration in 2017.",
+      "historical_reference": "Bell Pottinger — Oakbay communications campaign, 2016–2017",
+      "fictional_setting": "Malaysia, 2026.",
+      "historical_source": "https://press-admin.voteda.org/wp-content/uploads/2017/09/PRCA-final-decision.pdf",
+      "attribution_title": "Bell Pottinger",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Bell+Pottinger&oldid=1371412475",
+      "exhibit_sha256": "ed3d5373a12767866cb02b8ea74c30eb517bc17f61af13ffebd88fd03aeba9d9"
+    },
+    "095": {
+      "description": "A Vale tailings dam at Brumadinho, Brazil, collapsed in January 2019, killing hundreds. Investigations and litigation examined the dam's condition and safety assurances issued before its catastrophic failure.",
+      "historical_reference": "Vale — Brumadinho stability representations, before January 2019",
+      "fictional_setting": "Peru, 2026.",
+      "historical_source": "https://www.sec.gov/newsroom/press-releases/2022-72",
+      "attribution_title": "Brumadinho dam disaster",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Brumadinho+dam+disaster&oldid=1368874218",
+      "exhibit_sha256": "cbb1f78ea52d9ff44a00e9b860c96256888f277839ecc748b2fe9aaa0878015b"
+    },
+    "096": {
+      "description": "Wikipedia's PFOA article describes pollution associated with DuPont facilities, litigation and regulatory scrutiny over the persistent chemical. This supplies environmental context for the failure-to-report strand documented in the historical source below.",
+      "historical_reference": "DuPont — PFOA risk-information reporting, through 2004",
+      "fictional_setting": "Belgium, 2026.",
+      "historical_source": "https://www.epa.gov/archive/epapages/newsroom_archive/newsreleases/fdcb2f665cac66bb852570d7005d6665.html",
+      "attribution_title": "Perfluorooctanoic acid",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Perfluorooctanoic+acid&oldid=1374848065",
+      "exhibit_sha256": "5fa23897f95f96d47272a78360a21424f535124512fafa50a84473c2c1dee86f"
+    },
+    "097": {
+      "description": "Wikipedia records that Uber settled accusations of misleading drivers about potential earnings. The controversy concerns the gap between recruitment promises and the income drivers could reasonably expect from the work.",
+      "historical_reference": "Uber — driver earnings representations, resolved 2017",
+      "fictional_setting": "Portugal, 2026.",
+      "historical_source": "https://www.ftc.gov/news-events/news/press-releases/2017/01/uber-agrees-pay-20-million-settle-ftc-charges-it-recruited-prospective-drivers-exaggerated-earnings",
+      "attribution_title": "Uber",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Uber&oldid=1378212950",
+      "exhibit_sha256": "4f8aab5f1dbb746208aaaa1c6b9b347d81d3532a3f356fba09e1098502053a39"
+    },
+    "098": {
+      "description": "DWS faced investigations into claims about environmental, social and governance review in its investment process. It settled SEC charges in 2023 without admitting or denying the findings, including misstatements about how extensively those procedures were applied.",
+      "historical_reference": "DWS — ESG integration representations, 2018–2021",
+      "fictional_setting": "France, 2026.",
+      "historical_source": "https://www.sec.gov/newsroom/press-releases/2023-194",
+      "attribution_title": "DWS Group",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=DWS+Group&oldid=1367780548",
+      "exhibit_sha256": "bab650eb978b9511399ddf3cfce0f19f4b83ca17c3c1236840ab3599932ab59d"
+    },
+    "099": {
+      "description": "Hewlett-Packard's 2006 leak investigation used contractors who obtained telephone records through impersonation, or pretexting. The scandal exposed how an internal information inquiry could rely on deceptive collection methods supplied by vendors.",
+      "historical_reference": "HP — leak investigation and telephone-record pretexting, 2005–2006",
+      "fictional_setting": "Netherlands, 2026.",
+      "historical_source": "https://www.oag.ca.gov/news/press-releases/attorney-general-lockyer-files-criminal-charges-against-former-hewlett-packard",
+      "attribution_title": "Hewlett-Packard spying scandal",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Hewlett-Packard+spying+scandal&oldid=1354196511",
+      "exhibit_sha256": "08fdc258d57be34196437394ca852b889f9f7964ddbf8f7aa1e814985cab977c"
+    },
+    "100": {
+      "description": "The Consulting Association maintained a database of construction workers used in a UK blacklisting scandal. Notes about union activity and workplace concerns affected employment prospects, while many workers did not know the records existed.",
+      "historical_reference": "The Consulting Association — construction-worker blacklisting, exposed 2009",
+      "fictional_setting": "Australia, 2026.",
+      "historical_source": "https://ico.org.uk/for-the-public/ico-40/construction-employment-deny-list/",
+      "attribution_title": "Consulting Association",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Consulting+Association&oldid=1360174009",
+      "exhibit_sha256": "a03bcb5d20d5ee9b7ee997d63d49d5494daf8016d1d3b34df0a2b2fdde28db3e"
+    }
+  }
+}
